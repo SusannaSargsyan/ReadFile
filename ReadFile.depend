@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1519503031 source:c:\users\lusine\desktop\aua\c ++\readfile\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	"OrderBook.h"
+
+1519507539 c:\users\lusine\desktop\aua\c ++\readfile\include\orderbook.h
+	"Heap.h"
+	<string>
+
+1519510426 c:\users\lusine\desktop\aua\c ++\readfile\include\heap.h
+	<vector>
+
+1519505095 source:c:\users\lusine\desktop\aua\c ++\readfile\src\heap.cpp
+	"Heap.h"
+
+1519507776 source:c:\users\lusine\desktop\aua\c ++\readfile\src\orderbook.cpp
+	"OrderBook.h"
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+
